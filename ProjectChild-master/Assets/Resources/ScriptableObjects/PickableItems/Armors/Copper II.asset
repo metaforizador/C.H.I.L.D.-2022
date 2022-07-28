@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad44ce9fe6f571641863c3793400d699, type: 3}
+  m_Name: Copper II
+  m_EditorClassIdentifier: 
+  name: Copper II
+  sprite: {fileID: 0}
+  condition: 1
+  decreaseShieldRecoveryDelay: 10
+  increaseShield: 10
+  decreaseOpponentCriticalRate: 10
+  decreaseOpponentCriticalMultiplier: 10
+  reduceMovementSpeed: 0
+  reduceStaminaRecoveryRate: 0

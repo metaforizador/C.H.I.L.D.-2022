@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: df13db462c95d164bbe478cf2ba49e73
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 7721715186239825389
+    second: Armature.001|Action
+  - first:
+      74: -5784005261616917065
+    second: Armature.001|Armature.001Action.001
+  - first:
+      74: -3623820056271047561
+    second: Armature.001|Death/Dazed
+  - first:
+      74: -4823259877331270300
+    second: Armature.001|DeathFall
+  - first:
+      74: 4333140409389824915
+    second: Armature.001|ImpactDeath.001
+  - first:
+      74: -155106220019764699
+    second: Armature.001|MechaIdle
+  - first:
+      74: 1775397287446929545
+    second: Armature.001|MechaIdle.001
+  - first:
+      74: 2233182133579618635
+    second: Armature.001|MechaJump
+  - first:
+      74: -4718011491251693779
+    second: Armature.001|MechaJump.001
+  - first:
+      74: 8469360948905911761
+    second: Armature.001|MechaKnockDown
+  - first:
+      74: -1513761419097865874
+    second: Armature.001|MechaKnockDown.001
+  - first:
+      74: -7582891210288250072
+    second: Armature.001|MechaLightDamage
+  - first:
+      74: 7361963934447260857
+    second: Armature.001|MechaLightDamage.001
+  - first:
+      74: 5435603610223948395
+    second: Armature.001|MechaMissileOverkill
+  - first:
+      74: -1381959729027765675
+    second: Armature.001|MechaMissileOverkill.001
+  - first:
+      74: -8849050203202536468
+    second: Armature.001|MechaSevereDamage
+  - first:
+      74: 953631914797489842
+    second: Armature.001|MechaSevereDamage.001
+  - first:
+      74: 3921238822695431216
+    second: Armature.001|MechaShooting
+  - first:
+      74: -6704808757105965054
+    second: Armature.001|MechaShooting.001
+  - first:
+      74: 3289472372179666178
+    second: Armature.001|MechRunning
+  - first:
+      74: 6195309141118477829
+    second: Armature.001|MechRunning.001
+  - first:
+      74: 885944232402757753
+    second: Armature|Action
+  - first:
+      74: -1575228935612386658
+    second: Armature|DeathFall
+  - first:
+      74: -4782645932785715406
+    second: Armature|ImpactDeath.001
+  - first:
+      74: 7347177940927086498
+    second: Armature.002|Action
+  - first:
+      74: 6718902495089400937
+    second: Armature.002|DeathFall
+  - first:
+      74: 7986409663494365171
+    second: Armature.002|ImpactDeath.001
+  - first:
+      74: 4999519490516281693
+    second: Arms.001|Action
+  - first:
+      74: 8328381289414576079
+    second: Arms.001|DeathFall
+  - first:
+      74: 1896040865545374145
+    second: Arms.001|Dying1
+  - first:
+      74: 3282822373877827159
+    second: Arms.001|ImpactDeath.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

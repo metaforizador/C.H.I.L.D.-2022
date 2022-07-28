@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad44ce9fe6f571641863c3793400d699, type: 3}
+  m_Name: Platinum II
+  m_EditorClassIdentifier: 
+  name: Platinum II
+  sprite: {fileID: 0}
+  condition: 1
+  decreaseShieldRecoveryDelay: 15.9
+  increaseShield: 100
+  decreaseOpponentCriticalRate: 11.5
+  decreaseOpponentCriticalMultiplier: 3.6
+  reduceMovementSpeed: 50
+  increaseStaminaRecoveryDelay: 100

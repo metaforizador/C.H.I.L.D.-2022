@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f622394048bc7341976b4bd1422a2a3, type: 3}
+  m_Name: Magnum III
+  m_EditorClassIdentifier: 
+  name: Magnum III
+  sprite: {fileID: 21300000, guid: 0e0203e11e6ee044c8f4ed52ae871ce7, type: 3}
+  condition: 2
+  shootingSound: {fileID: 8300000, guid: ca44620350415ba42ad5c1c0e0e57368, type: 3}
+  reloadingSound: {fileID: 8300000, guid: d35143dfc27dcb947ba183ecbec16278, type: 3}
+  damagePerBullet: 65
+  weaponType: 0
+  bulletSpeed: 570
+  ammoSize: 9
+  rateOfFire: 0.7
+  reloadTime: 3

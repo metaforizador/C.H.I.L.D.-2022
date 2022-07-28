@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f622394048bc7341976b4bd1422a2a3, type: 3}
+  m_Name: Crossbow IV
+  m_EditorClassIdentifier: 
+  name: Crossbow IV
+  sprite: {fileID: 0}
+  condition: 3
+  shootingSound: {fileID: 8300000, guid: ca44620350415ba42ad5c1c0e0e57368, type: 3}
+  reloadingSound: {fileID: 8300000, guid: d35143dfc27dcb947ba183ecbec16278, type: 3}
+  damagePerBullet: 300
+  weaponType: 0
+  bulletSpeed: 250
+  ammoSize: 16
+  rateOfFire: 1
+  reloadTime: 1

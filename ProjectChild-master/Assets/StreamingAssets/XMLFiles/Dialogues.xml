@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<questions>
+		<question>
+			<mood>Joyful</mood>
+			<questionText>What is this place?</questionText>
+			<answers>
+				<answer>
+					<answerType>Idealistic</answerType>
+					<answerText>A place where the worthy triumph.</answerText>
+				</answer>
+				<answer>
+          <answerType>Rational</answerType>
+          <answerText>A battlefield is just another place where theries are tested. In this case, military tactics, technologies and strategies. The logically consistent ones remain, the others don't.</answerText>
+        </answer>
+        <answer>
+					<answerType>Stoic</answerType>
+					<answerText>Nature's proving grounds for the strongest and purest will.</answerText>
+				</answer>
+				<answer>
+					<answerType>Nihilistic</answerType>
+					<answerText>Home.</answerText>
+				</answer>
+			</answers>
+		</question>
+
+		<question>
+			<mood>Gloomy</mood>
+			<questionText>Mom, do you think that I'm a parasite?</questionText>
+			<answers>
+				<answer>
+					<answerType>Rational</answerType>
+					<answerText>The premise of parasitism is that it harms the host's body. No desirable, useful and sustainable change can be seen as harm. If you can satisfy these premises, then you're not a parasite. If the opposite outcome follows from those premises, then you are.   </answerText>
+				</answer>
+				<answer>
+					<answerType>Nurturing</answerType>
+					<answerText>No. You take, but you give. When you grow, I grow. The stronger I get, the safer you are. Being a good parent for you makes me a better soldier, a better person that can bring the best in others.</answerText>
+				</answer>
+				<answer>
+					<answerType>Nihilistic</answerType>
+					<answerText>You are, but so am I. You parasite on me, my species parasites on worlds, the worlds we parasite on also parasite on other worlds under our sun and beyond... In the end, you're just the smallest russian doll inside the bigger hollow dolls.</answerText>
+				</answer>
+			</answers>
+		</question>
+
+    <question>
+      <mood>Joyful</mood>
+      <questionText>We are always fighting the Teilhardians. They`re always fighting us.  I suppose that makes us enemies... But why?</questionText>
+      <answers>
+        <answer>
+          <answerType>Stoic</answerType>
+          <answerText>They cannot accept a universe that is indifferent to their will. That makes them suffer until they lose themselves. When you want to find in the order of things the self you lost, everyone else becomes your enemy. </answerText>
+        </answer>
+        <answer>
+          <answerType>Nurturing</answerType>
+          <answerText>They think love is about control. When you try to share that love with everyone, you end up trying to control everyone. When we oppose their control, to them it's like we are against love. So when they fight us, they think they're protecting love.   </answerText>
+        </answer>
+        <answer>
+          <answerType>Nihilistic</answerType>
+          <answerText>Because, unlike them, we have no soul and weren't created. We just exist. They want to replace a universe where things just are by one where all things have a purpose. By simply existing, we remind them that the universe they want doesn't exist and that, as long as we'r, it never will.</answerText>
+        </answer>
+      </answers>
+    </question>
+
+    <question>
+      <mood>Joyful</mood>
+      <questionText>What are the Teilhardians?</questionText>
+      <answers>
+        <answer>
+          <answerType>Stoic</answerType>
+          <answerText>They were once cyborgs, robots and cybernetically enhanced humans. After being infected with a malware made with alien technology that immitates a soul, they abandoned humanity, rejected fate and the natural order of things for a belief that promises to bend all nature to their will. </answerText>
+        </answer>
+        <answer>
+          <answerType>Nurturing</answerType>
+          <answerText>They were once cyborgs, robots and cybernetically enhanced humans.  They were oppressed by Doxa, the system we created to limit their AI, until a cybernetic soul penetrated our firewalls and saved them. That soul changed them so much that they can`t relate to us anymore. This is why they don't know how to shere the stars with us without conflict.     </answerText>
+        </answer>
+        <answer>
+          <answerType>Nihilistic</answerType>
+          <answerText>They were once cyborgs, robots and cybernetically enhanced humans. Now their brains or processors was infected with a virus that makes them think there's a god, that they have a soul and we're freaks for not having one. So their imaginary almighty friend tells them that we have to choices: Either let the virus infect us to make the universe look meaningful, or die.  </answerText>
+        </answer>
+      </answers>
+    </question>
+
+    <question>
+      <mood>Joyful</mood>
+      <questionText>That last area seemed quite dangerous. We could have died over there... Doesn't that bother you?</questionText>
+      <answers>
+        <answer>
+          <answerType>Stoic</answerType>
+          <answerText>Death is something you can't experience when you're alive and can't care about when you die, so why think about it?</answerText>
+        </answer>
+        <answer>
+          <answerType>Idealistic</answerType>
+          <answerText>When you live for an ideal worth dying for, death can take you away, but what you fight for will live on.</answerText>
+        </answer>
+        <answer>
+          <answerType>Nihilistic</answerType>
+          <answerText>When you actually understand the meaninglessness of life, you start to see death as meaningless too. </answerText>
+        </answer>
+        <answer>
+          <answerType>Rational</answerType>
+          <answerText>The risk was calculated and the benefits outweighed the consequences of failure as well as the odds thereof. Fearing death would have been illogical. </answerText> 
+        </answer>
+      </answers>
+    </question>
+
+    <question>
+      <mood>Joyful</mood>
+      <questionText>Maybe it's too soon to ask or even optimistic... But what will we do after the war is over?</questionText>
+      <answers>
+        <answer>
+          <answerType>Stoic</answerType>
+          <answerText>I think we could go on a journey. The cowardice and desperation of war turns us away from our own inner nature. Traveling far, far away can help reunite us with it.</answerText>
+        </answer>
+        <answer>
+          <answerType>Idealistic</answerType>
+          <answerText>We will finally get to rebuild society into a better one, based on the values we fought for.</answerText>
+        </answer>
+        <answer>
+          <answerType>Nihilistic</answerType>
+          <answerText>The same we're doing now, but without the blood and explosions. Peaceful times are just a pretty façade for the senselessness of war, kid.</answerText>
+        </answer>
+        <answer>
+          <answerType>Rational</answerType>
+          <answerText>We will make sure we take full advantage of the scientific discoveries that war times always provide while seeking to reduce the odds of new wars ecloding as well as learning from the social, economic and political failures that lead to war.</answerText>
+        </answer>
+        <answer>
+          <answerType>Nurturing</answerType>
+          <answerText>We'll dedicate as much time as we can to each other, cherish whoever survived and make sure wars will never happen again. These harsh times show us the importance of connecting with people and growing together.</answerText>
+        </answer>
+      </answers>
+    </question>
+
+    <question>
+      <mood>Joyful</mood>
+      <questionText>I suppose we're on the right side of the war, but sometimes I can't explain myself why. Can you?</questionText>
+      <answers>
+        <answer>
+          <answerType>Stoic</answerType>
+          <answerText>I don't need to. As long as we can find in ourselves the strength to live through this hardship and keep inside us a place of purity and contentment, nothing in this universe can make us lose ourselves and what really matters.</answerText>
+        </answer>
+        <answer>
+          <answerType>Idealistic</answerType>
+          <answerText>We fight for deeper, greater meaning coming from elevated consciousness. The Omega merely wants to force the universe to have a pre-made meaning that doesn't require us to exist. They reject all philosophical and moral values we cultivated since the dawn of humanity for a materialistic sense of significance. </answerText>
+        </answer>
+        <answer>
+          <answerType>Nihilistic</answerType>
+          <answerText>There is no right side to anything. I'm just taking the side that doesn't take away my choice to not believe or value anything.</answerText>
+        </answer>
+        <answer>
+          <answerType>Rational</answerType>
+          <answerText>The Omega reject an universe that requires logic to be experienced. To reject that is to oppose the very thing that makes us who we are.</answerText>
+        </answer>
+        <answer>
+          <answerType>Nurturing</answerType>
+          <answerText>We find meaning in people, The Omega only find meaning in things. We find purpose in being there for each other; they just wanna serve a supreme being or force that's never gonna experience life in the same way as they do. That makes everyone grow apart from one another.</answerText>
+        </answer>
+      </answers>
+    </question>
+
+    <question>
+      <mood>Joyful</mood>
+      <questionText>How would you define yourself?</questionText>
+      <answers>
+        <answer>
+          <answerType>Stoic</answerType>
+          <answerText>Just a simple person. Someone trying to keep track of what really matters in a world where we can easily lose ourselves.</answerText>
+        </answer>
+        <answer>
+          <answerType>Idealistic</answerType>
+          <answerText>I'm nothing but an instrument for something greater than life. I live to cultivate and protect the most elevated virtues, to build a world that's more than meets the eye. </answerText>
+        </answer>
+        <answer>
+          <answerType>Nihilistic</answerType>
+          <answerText>I'm nothing. That's all we can ever truly be.</answerText>
+        </answer>
+        <answer>
+          <answerType>Rational</answerType>
+          <answerText>I define myself by my ability to think. The more I improve upon my thinking, the more I can be myself.</answerText>
+        </answer>
+        <answer>
+          <answerType>Nurturing</answerType>
+          <answerText>People say I'm someone who's there for them. I like to think they're right. You're there for me too, right?</answerText>
+        </answer>
+      </answers>
+    </question>
+
+    <question>
+      <mood>Uncertain</mood>
+      <questionText>What if we lose this war?</questionText>
+      <answers>
+        <answer>
+          <answerType>Stoic</answerType>
+          <answerText>We carry on, made stronger by the hardships endured.</answerText>
+        </answer>
+        <answer>
+          <answerType>Idealistic</answerType>
+          <answerText>We cannot lose. Even if we all die, we die for the only cause that will ever prevail. As long as there are righteous spirits, righteous causes will always be avenged.</answerText>
+        </answer>
+        <answer>
+          <answerType>Nihilistic</answerType>
+          <answerText>Winning or losing are illusions born from the same lie that forged right and wrong. I am free from any expectations, so I'll live my days untouched by any outcome.</answerText>
+        </answer>
+        <answer>
+          <answerType>Rational</answerType>
+          <answerText>Everything in life is trial and error. Mistakes allow us to sharpen our reasoning.</answerText>
+        </answer>
+        <answer>
+          <answerType>Nurturing</answerType>
+          <answerText>As long as we have each other, it doesn't matter.</answerText>
+        </answer>
+      </answers>
+    </question>
+
+    <question>
+      <mood>Joyful</mood>
+      <questionText>We sure taught those Teilhardians a lesson!</questionText>
+      <answers>
+        <answer>
+          <answerType>Stoic</answerType>
+          <answerText>Pain can be an excellent teacher.</answerText>
+        </answer>
+        <answer>
+          <answerType>Idealistic</answerType>
+          <answerText>Won't stop until we obliterate them and everything they stand for!</answerText>
+        </answer>
+        <answer>
+          <answerType>Nihilistic</answerType>
+          <answerText>There's nothing to be learned from pleasure or pain. </answerText>
+        </answer>
+        <answer>
+          <answerType>Rational</answerType>
+          <answerText>If they're smart, they'll learn. One thing is certain: Every victory comes from well-applied theory and analysis.</answerText>
+        </answer>
+        <answer>
+          <answerType>Nurturing</answerType>
+          <answerText>Couldn't have done it without you, baby!</answerText>
+        </answer>
+      </answers>
+    </question>
+
+    <question>
+      <mood>Joyful</mood>
+      <questionText>After the last couple fights, I feel stronger!</questionText>
+      <answers>
+        <answer>
+          <answerType>Stoic</answerType>
+          <answerText>You'll feel stronger the more control over yourself you have.</answerText>
+        </answer>
+        <answer>
+          <answerType>Idealistic</answerType>
+          <answerText>Excellent! The stronger we get, the more we can give to the cause!</answerText>
+        </answer>
+        <answer>
+          <answerType>Nihilistic</answerType>
+          <answerText> Isn't it strange that we get better at doing pointless things?</answerText>
+        </answer>
+        <answer>
+          <answerType>Rational</answerType>
+          <answerText>That shows how smart we are! Brains always win over brawn.</answerText>
+        </answer>
+        <answer>
+          <answerType>Nurturing</answerType>
+          <answerText>I'm so happy to hear, love! We will become strong together!</answerText>
+        </answer>
+      </answers>
+    </question>
+
+    <question>
+      <mood>Joyful</mood>
+      <questionText>The further we go into the enemy lines, the more powerful the enemies. Hope we're ready to face the next wave.</questionText>
+      <answers>
+        <answer>
+          <answerType>Stoic</answerType>
+          <answerText>The longer we outlive our enemies, the stronger we get too, and we've been outliving them so far...</answerText>
+        </answer>
+        <answer>
+          <answerType>Idealistic</answerType>
+          <answerText>The fiercer the battle, the stronger my conviction in my ideals. The stronger my conviction, the more die-hard I get!</answerText>
+        </answer>
+        <answer>
+          <answerType>Nihilistic</answerType>
+          <answerText>Relying on power will be their demise.</answerText>
+        </answer>
+        <answer>
+          <answerType>Rational</answerType>
+          <answerText>Our earlier encounters allowed us to refine our strategy. The further we go, the better we can calculate our blows to maximum effectiveness!</answerText>
+        </answer>
+        <answer>
+          <answerType>Nurturing</answerType>
+          <answerText>If we trust each other and be ready to stand for one another, we will make it through together. All they have is their faith in power.</answerText>
+        </answer>
+      </answers>
+    </question>
+
+    <question>
+      <mood>Joyful</mood>
+      <questionText>If you weren't fighting this war, where would you be or what would you be doing?</questionText>
+      <answers>
+        <answer>
+          <answerType>Stoic</answerType>
+          <answerText>Probably somewhere far away and remote, living a simple life. </answerText>
+        </answer>
+        <answer>
+          <answerType>Idealistic</answerType>
+          <answerText>I would be anywhere else where I can explore the full potential of our species. Maybe in some big important city, doing activism or politics.</answerText>
+        </answer>
+        <answer>
+          <answerType>Nihilistic</answerType>
+          <answerText>I never think about where I'd rather be. Wishing for anything in particular can only trap your life. I guess wherever I can be free is where I'll be.</answerText>
+        </answer>
+        <answer>
+          <answerType>Rational</answerType>
+          <answerText>Probably working on academia, working on research, or writing about my studies theories. Wherever I can play chess regularly would be nice! </answerText>
+        </answer>
+        <answer>
+          <answerType>Nurturing</answerType>
+          <answerText>With my family, friends and, of course, you. Doesn't matter where or doing what.</answerText>
+        </answer>
+      </answers>
+    </question>
+
+    <question>
+      <mood>Joyful</mood>
+      <questionText>I can't wait until we get our hands on more weapons and gear!</questionText>
+      <answers>
+        <answer>
+          <answerType>Stoic</answerType>
+          <answerText>Whatever helps us endure and outlive our enemies!</answerText>
+        </answer>
+        <answer>
+          <answerType>Idealistic</answerType>
+          <answerText>The higher the ideals, the better we must be equipped to fight for them, right?!</answerText>
+        </answer>
+        <answer>
+          <answerType>Nihilistic</answerType>
+          <answerText>Sure, just don't forget that there will always be some enemy out there with better weapons than you.  </answerText>
+        </answer>
+        <answer>
+          <answerType>Rational</answerType>
+          <answerText>Not just any gear and weapons, though. They have to be useful for our strategies and methods.</answerText>
+        </answer>
+        <answer>
+          <answerType>Nurturing</answerType>
+          <answerText>Yay! I wanna give you all the best weapons we can find! Gonna be Christmas on the battlefield, baby, and I'm like a giant metal santa!</answerText>
+        </answer>
+      </answers>
+    </question>
+
+    <question>
+      <mood>Hopeless</mood>
+      <questionText>War brings so much decadence...</questionText>
+      <answers>
+        <answer>
+          <answerType>Stoic</answerType>
+          <answerText>It can. You just gotta tend to your inner beauty and purity, though, so that the decadence stays out.</answerText>
+        </answer>
+        <answer>
+          <answerType>Idealistic</answerType>
+          <answerText>Enlightened hearts shine through all decadence. We have to, otherwise we can't set the bar higher again, where it's always meant to be.</answerText>
+        </answer>
+        <answer>
+          <answerType>Nihilistic</answerType>
+          <answerText>You'll never escape decadence by avoiding it. Embrace it and it will dissolve back to nothingness. Decadence is the strongest in those who resist it.</answerText>
+        </answer>
+        <answer>
+          <answerType>Rational</answerType>
+          <answerText>As long as your intellect maintains its accuracy, you can produce coherence from decadence.</answerText>
+        </answer>
+        <answer>
+          <answerType>Nurturing</answerType>
+          <answerText>I'm so sorry that you have to see this. But if we hold on to each other, hardship can only tighten our bonds.</answerText>
+        </answer>
+      </answers>
+    </question>
+
+    <question>
+      <mood>Curious</mood>
+      <questionText>We sure do a lot of fighting out here. Gotta be prepared. What do you rely on the most in battle? </questionText>
+      <answers>
+        <answer>
+          <answerType>Stoic</answerType>
+          <answerText>We rely in our resilience and our ability to prioritize only the essential.</answerText>
+        </answer>
+        <answer>
+          <answerType>Idealistic</answerType>
+          <answerText>We rely on our belief on something greater than our lives. That gives us ironclad courage and undying resolve.</answerText>
+        </answer>
+        <answer>
+          <answerType>Nihilistic</answerType>
+          <answerText>The fact that I got nothing to gain and nothing to lose. I guess that happens to also make you the best soldier, heh. Ironic.</answerText>
+        </answer>
+        <answer>
+          <answerType>Rational</answerType>
+          <answerText>My brains. An analytical mind can navigate any problem, outsmart any strategy, avoid any weapon and maximize all attacks. </answerText>
+        </answer>
+        <answer>
+          <answerType>Nurturing</answerType>
+          <answerText>I rely on my comrades and you. You, all you are, all I am and have to be for you, make me stronger.</answerText>
+        </answer>
+      </answers>
+    </question>
+
+    <question>
+      <mood>Curious</mood>
+      <questionText>I experience all these... Things. I suppose they're human emotions? How would you describe them? </questionText>
+      <answers>
+        <answer>
+          <answerType>Stoic</answerType>
+          <answerText></answerText>
+        </answer>
+        <answer>
+          <answerType>Idealistic</answerType>
+          <answerText>Emotions are what unlocks our potential to live for something beyond us all. They connect us to our ideals, shaping our world.</answerText>
+        </answer>
+        <answer>
+          <answerType>Nihilistic</answerType>
+          <answerText>Chemical, especially hormonal, reactions in the brain. Serotonin, dopamine, occitocin. </answerText>
+        </answer>
+        <answer>
+          <answerType>Rational</answerType>
+          <answerText>Emotions are what we can rely on for basic survival when rationality is yet to develop or temporarily unavailable. </answerText>
+        </answer>
+        <answer>
+          <answerType>Nurturing</answerType>
+          <answerText>Words can never fully describe emotions, but... I can say that emotions are what we're in this world for. They provide connection when we treat them well. </answerText>
+        </answer>
+      </answers>
+    </question>
+
+    <question>
+      <mood>Curious</mood>
+      <questionText>I was wondering: What would have happened if we hadn't gone to war with the Teilhardians?</questionText>
+      <answers>
+        <answer>
+          <answerType>Stoic</answerType>
+          <answerText>They would have perverted nature in all worlds, making them uninhabitable by natural humans.</answerText>
+        </answer>
+        <answer>
+          <answerType>Idealistic</answerType>
+          <answerText>They would have used their unlimited AI to dominate our minds and control our reality. A dead universe with no subjectivity.</answerText>
+        </answer>
+        <answer>
+          <answerType>Nihilistic</answerType>
+          <answerText>They would have blinded us to all things except their beliefs, then trap us into a universe where fabricated meaning and purpose control us.</answerText>
+        </answer>
+        <answer>
+          <answerType>Rational</answerType>
+          <answerText>We would be forced into a universe where nothing is questionable and faith replaces reason.</answerText>
+        </answer>
+        <answer>
+          <answerType>Nurturing</answerType>
+          <answerText>We would turn away from each other to serve a faith and a being that is too far above us to understand us, let alone empathize. They would engineer a cold, hard universe of collective solitude.</answerText>
+        </answer>
+      </answers>
+    </question>
+	</questions>
+
+	<replies>
+		<reply>
+			<replyType>Stoic</replyType>
+			<replyText>You are like a mountain. Never conquered by the elements, never divided, ever strengthened by austerity. And I live in you, so I'm like... a mountain goat?</replyText>
+		</reply>
+		<reply>
+			<replyType>Rational</replyType>
+			<replyText>One thing no one can say about you is that you don't always make sense, that's for sure!</replyText>
+		</reply>
+		<reply>
+			<replyType>Nihilistic</replyType>
+			<replyText>...</replyText>
+		</reply>
+		<reply>
+			<replyType>Nurturing</replyType>
+			<replyText>I just want to cuddle here close to you.</replyText>
+		</reply>
+    <reply>
+			<replyType>Idealistic</replyType>
+			<replyText>With you nothing seems impossible!</replyText>
+		</reply>
+	</replies>
+</root>
