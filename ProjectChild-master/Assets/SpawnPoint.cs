@@ -12,6 +12,6 @@ public class SpawnPoint : MonoBehaviour
     public void DestroySpawnerGO()
     {
         enemy.transform.parent = null;
-        Destroy(this.gameObject, 0.3f);
+        Destroy(this.gameObject, 1f);
     }
 }
