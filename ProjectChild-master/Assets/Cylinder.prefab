@@ -129,6 +129,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemy: {fileID: 0}
+--- !u!54 &7995127461539611016
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6360285066294624770}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &678680787643669873
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -218,6 +234,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 23f98b7d248636f448cc22643ce94d2b, type: 3}
+--- !u!1 &6360285066294624770 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5850014310592716659, guid: 23f98b7d248636f448cc22643ce94d2b,
+    type: 3}
+  m_PrefabInstance: {fileID: 678680787643669873}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &6360285066294624771 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5850014310592716658, guid: 23f98b7d248636f448cc22643ce94d2b,

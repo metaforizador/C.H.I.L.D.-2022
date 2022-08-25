@@ -72,6 +72,7 @@ public class Enemy : CharacterParent {
     /// <param name="collision">happened collision</param>
     void OnCollisionEnter(Collision collision) {
         if (collision.gameObject.CompareTag("Bullet")) {
+            Debug.Log("Collided with bullet");
             bulletController bullet = collision.gameObject.GetComponent<bulletController>();
             if (bullet.shooter == CharacterType.Player) {
                 TakeDamage(bullet.damageType, bullet.damage, bullet.criticalRate);
@@ -261,7 +262,20 @@ public class Enemy : CharacterParent {
     /// Give xp to the player when the enemy dies.
     /// </summary>
     protected override void Die() {
+        StartCoroutine(EnemyDeath());
+    }
+
+    IEnumerator EnemyDeath()
+    {
+        animator.SetBool("Alive", false);
+        //Wait until death animation is done
+        yield return new WaitForSeconds(2f);
         PlayerStats.Instance.GainXP(scriptableObject.xp);
+
+        if(FindObjectOfType<Spawner>()){
+            FindObjectOfType<Spawner>().currentPoints++;
+        }
+        
         base.Die();
     }
 }

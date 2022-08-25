@@ -3620,7 +3620,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &160248064
 Transform:
   m_ObjectHideFlags: 0
@@ -4713,6 +4713,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7382263619887258108, guid: 9489191c91a3c644f98423b6f0610a72,
         type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7382263619887258108, guid: 9489191c91a3c644f98423b6f0610a72,
+        type: 3}
       propertyPath: m_TagString
       value: Enemy
       objectReference: {fileID: 0}
@@ -5689,6 +5694,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Enemy_Missile (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 480563324417728588, guid: df52d46eeb15464478875c94685c88a2,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df52d46eeb15464478875c94685c88a2, type: 3}
@@ -8404,7 +8414,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &393735256
 Transform:
   m_ObjectHideFlags: 0
@@ -12552,6 +12562,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7382263619887258108, guid: 9489191c91a3c644f98423b6f0610a72,
         type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7382263619887258108, guid: 9489191c91a3c644f98423b6f0610a72,
+        type: 3}
       propertyPath: m_TagString
       value: Enemy
       objectReference: {fileID: 0}
@@ -14041,6 +14056,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Enemy_Chainsaw (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7382263619887258108, guid: 9489191c91a3c644f98423b6f0610a72,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7382263619887258108, guid: 9489191c91a3c644f98423b6f0610a72,
         type: 3}
@@ -18367,6 +18387,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Enemy_Chainsaw (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7382263619887258108, guid: 9489191c91a3c644f98423b6f0610a72,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7382263619887258108, guid: 9489191c91a3c644f98423b6f0610a72,
         type: 3}
@@ -23049,6 +23074,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7382263619887258108, guid: 9489191c91a3c644f98423b6f0610a72,
         type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7382263619887258108, guid: 9489191c91a3c644f98423b6f0610a72,
+        type: 3}
       propertyPath: m_TagString
       value: Enemy
       objectReference: {fileID: 0}
@@ -24734,6 +24764,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Enemy_Missile (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 480563324417728588, guid: df52d46eeb15464478875c94685c88a2,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df52d46eeb15464478875c94685c88a2, type: 3}
@@ -26947,6 +26982,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy_Missile (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 480563324417728588, guid: df52d46eeb15464478875c94685c88a2,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df52d46eeb15464478875c94685c88a2, type: 3}
 --- !u!1001 &1195441438
@@ -27377,10 +27417,10 @@ MonoBehaviour:
   spawnRadius: 200
   minimumDistanceBtwPoints: 75
   spawnPoints: []
-  startPoints: 8
+  startPoints: 5
   currentPoints: 0
   minPointForSpawn: 5
-  intervalBtwChecks: 15
+  intervalBtwChecks: 20
 --- !u!4 &1215097541
 Transform:
   m_ObjectHideFlags: 0
