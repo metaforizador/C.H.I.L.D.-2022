@@ -15,7 +15,7 @@ MonoBehaviour:
   debugViews:
     m_Enabled: 1
     m_Settings:
-      mode: 0
+      mode: 1
       depth:
         scale: 1
       motionVectors:
@@ -51,7 +51,7 @@ MonoBehaviour:
       ambientOnly: 0
       highPrecision: 0
   screenSpaceReflection:
-    m_Enabled: 0
+    m_Enabled: 1
     m_Settings:
       reflection:
         blendType: 0
@@ -101,13 +101,13 @@ MonoBehaviour:
     m_Enabled: 1
     m_Settings:
       bloom:
-        intensity: 0.23
-        threshold: 0.55
-        softKnee: 0.603
+        intensity: 3.87
+        threshold: 2.4
+        softKnee: 0.632
         radius: 7
         antiFlicker: 1
       lensDirt:
-        texture: {fileID: 2800000, guid: a2960ffde020f27409e070d92fb2e00b, type: 3}
+        texture: {fileID: 2800000, guid: 7a051dbda2d7bc447bee412427cd311e, type: 3}
         intensity: 10.84
   colorGrading:
     m_Enabled: 1
